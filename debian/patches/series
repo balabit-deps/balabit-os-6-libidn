@@ -5,3 +5,4 @@ CVE-2016-6261-3.patch
 CVE-2016-6262.patch
 CVE-2016-6263.patch
 fix_gdoc_path.patch
+CVE-2017-14062.patch
